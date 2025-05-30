@@ -1,0 +1,3 @@
+﻿  Traductor.cpp
+C:\Users\allan\Documents\Visual Studio projects\Traductor\Traductor\Traductor.cpp(229,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Traductor.vcxproj -> C:\Users\allan\Documents\Visual Studio projects\Traductor\x64\Debug\Traductor.exe
