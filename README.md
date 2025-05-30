@@ -1,4 +1,4 @@
-# TraductorSeguro
+# Traductor-AVL-Huffman
 
 A secure multilingual translator written in C++17.  
 Features include:
